@@ -1,5 +1,5 @@
 # Executable file to start container with RStudio
 
-docker run --rm -it -v /Users/vladdsm/Shared:/03_output vladdsm/docker-r-h2o
+docker run --rm -it -v /Users/anastasiia_kostiv/Documents/Udemy_Course_Shared:/03_output nolik/docker-r-h2o
 
 

@@ -5,7 +5,7 @@
 
 FROM rocker/r-base:latest
 
-MAINTAINER 'Vladimir Zhbanko' vladimir.zhbanko@gmail.com
+MAINTAINER 'Anastasiia' akostiv11@gmail.com
 
 ## install debian packages
 RUN apt-get update -qq && apt-get -y --no-install-recommends install \
